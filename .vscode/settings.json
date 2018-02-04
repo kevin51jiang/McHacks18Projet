@@ -1,0 +1,7 @@
+{
+    "python.linting.enabled": true,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.preloadModules": [requests]
+}
